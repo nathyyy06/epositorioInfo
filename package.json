@@ -1,0 +1,11 @@
+{
+  "name": "epositorioinfo",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para a disciplina **Gerência e Configurações de Serviços de Internet**.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
